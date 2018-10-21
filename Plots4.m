@@ -1,3 +1,7 @@
+close all;
+clear all;
+clc
+
 t = 0:pi/10:2*pi
 [X,Y,Z] = cylinder(4*cos(t))
 

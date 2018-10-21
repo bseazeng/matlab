@@ -1,3 +1,7 @@
+close all;
+clear all;
+clc
+
 % first create a set of (x,y) points over the domain of the function using meshgrid.
 close all
 [X,Y] = meshgrid(-2:.2:2);

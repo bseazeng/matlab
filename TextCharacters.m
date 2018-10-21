@@ -1,3 +1,7 @@
+close all;
+clear all;
+clc
+
 myText = 'Hello, world';
 otherText = 'You''re right';
 longText = [myText,' - ',otherText]

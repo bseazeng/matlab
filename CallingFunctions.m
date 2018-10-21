@@ -1,3 +1,6 @@
+close all;
+clear all;
+clc
 
 A = [1 3 5];
 max(A)%5%

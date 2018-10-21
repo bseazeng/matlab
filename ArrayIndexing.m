@@ -1,3 +1,7 @@
+close all;
+clear all;
+clc
+
 A = magic(4)
 % A =
 % 
